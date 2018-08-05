@@ -7,3 +7,4 @@ curated list of selected research papers for AI/ML/NLP
 * **fastText** word2vec: https://arxiv.org/pdf/1607.01759.pdf
 * Discriminative Vs Generative Classifiers: http://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf
 (practical tip: generative (like naive bayes) work better on smaller training data, while for larger training data discriminative work better.)
+* GloVe: Global Vectors for Word Representation: https://nlp.stanford.edu/pubs/glove.pdf
