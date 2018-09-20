@@ -12,3 +12,8 @@ curated list of selected research papers for AI/ML/NLP
 * **fastText** word2vec: https://arxiv.org/pdf/1607.01759.pdf
 * GloVe: Global Vectors for Word Representation: https://nlp.stanford.edu/pubs/glove.pdf
 * StarSpace Embed All The Things!: https://arxiv.org/pdf/1709.03856.pdf
+
+## Deep Learning
+
+* Receptive field of single neurons in cat's striate cortex (motivation for CNN):https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1363130/pdf/jphysiol01298-0128.pdf
+* Capsule Networks: https://arxiv.org/pdf/1710.09829.pdf
