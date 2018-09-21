@@ -16,4 +16,8 @@ curated list of selected research papers for AI/ML/NLP
 ## Deep Learning
 
 * Receptive field of single neurons in cat's striate cortex (motivation for CNN):https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1363130/pdf/jphysiol01298-0128.pdf
+* AlexNet paper for ImageNet: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+* VGGNet paper for ImageNet: https://arxiv.org/pdf/1409.1556.pdf
+* GoogleNet: https://arxiv.org/pdf/1409.4842.pdf
+* ResNet: https://arxiv.org/pdf/1512.03385.pdf
 * Capsule Networks: https://arxiv.org/pdf/1710.09829.pdf
