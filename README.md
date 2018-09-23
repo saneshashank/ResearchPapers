@@ -20,4 +20,5 @@ curated list of selected research papers for AI/ML/NLP
 * VGGNet paper for ImageNet: https://arxiv.org/pdf/1409.1556.pdf
 * GoogleNet: https://arxiv.org/pdf/1409.4842.pdf
 * ResNet: https://arxiv.org/pdf/1512.03385.pdf
+* An Analysis of Deep Learning Models for Practical Applications: https://arxiv.org/pdf/1605.07678.pdf
 * Capsule Networks: https://arxiv.org/pdf/1710.09829.pdf
