@@ -22,3 +22,4 @@ curated list of selected research papers for AI/ML/NLP
 * ResNet: https://arxiv.org/pdf/1512.03385.pdf
 * An Analysis of Deep Learning Models for Practical Applications: https://arxiv.org/pdf/1605.07678.pdf
 * Capsule Networks: https://arxiv.org/pdf/1710.09829.pdf
+* Road crack detection using deep convolutional neural network: https://www.researchgate.net/publication/305850872_Road_crack_detection_using_deep_convolutional_neural_network
