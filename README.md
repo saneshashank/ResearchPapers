@@ -13,6 +13,8 @@ curated list of selected research papers for AI/ML/NLP
 * GloVe: Global Vectors for Word Representation: https://nlp.stanford.edu/pubs/glove.pdf
 * StarSpace Embed All The Things!: https://arxiv.org/pdf/1709.03856.pdf
 
+* Universal Language Model Fine-tuning for Text Classification (ULMFiT):https://arxiv.org/pdf/1801.06146.pdf
+
 ## Deep Learning
 
 * Receptive field of single neurons in cat's striate cortex (motivation for CNN):https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1363130/pdf/jphysiol01298-0128.pdf
@@ -23,7 +25,9 @@ curated list of selected research papers for AI/ML/NLP
 * An Analysis of Deep Learning Models for Practical Applications: https://arxiv.org/pdf/1605.07678.pdf
 * Capsule Networks: https://arxiv.org/pdf/1710.09829.pdf
 * Road crack detection using deep convolutional neural network: https://www.researchgate.net/publication/305850872_Road_crack_detection_using_deep_convolutional_neural_network
+* A DISCIPLINED APPROACH TO NEURAL NETWORK HYPER-PARAMETERS: https://arxiv.org/pdf/1803.09820.pdf
 
 ## Reinforcement Learning
 
 * Double-Q Learning: https://papers.nips.cc/paper/3964-double-q-learning.pdf
+* Playing Atari with Deep Reinforcement Learning: https://arxiv.org/pdf/1312.5602.pdf
