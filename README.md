@@ -27,7 +27,7 @@ curated list of selected research papers for AI/ML/NLP
 * Road crack detection using deep convolutional neural network: https://www.researchgate.net/publication/305850872_Road_crack_detection_using_deep_convolutional_neural_network
 
 * A DISCIPLINED APPROACH TO NEURAL NETWORK HYPER-PARAMETERS: https://arxiv.org/pdf/1803.09820.pdf
-* Delving Deep into Rectifiers:Surpassing Human-Level Performance on ImageNet Classificationhttps://arxiv.org/pdf/1502.01852.pdf
+* Delving Deep into Rectifiers:Surpassing Human-Level Performance on ImageNet Classification: https://arxiv.org/pdf/1502.01852.pdf
 
 
 ## Reinforcement Learning
