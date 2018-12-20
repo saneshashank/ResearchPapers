@@ -13,6 +13,8 @@ curated list of selected research papers for AI/ML/NLP
 * GloVe: Global Vectors for Word Representation: https://nlp.stanford.edu/pubs/glove.pdf
 * StarSpace Embed All The Things!: https://arxiv.org/pdf/1709.03856.pdf
 
+* SentoVec using SIF (Smooth Inverse Frequency) and Word2Vec: https://openreview.net/pdf?id=SyK00v5xx
+
 * Universal Language Model Fine-tuning for Text Classification (ULMFiT):https://arxiv.org/pdf/1801.06146.pdf
 
 ## Deep Learning
