@@ -31,6 +31,9 @@ curated list of selected research papers for AI/ML/NLP
 * A DISCIPLINED APPROACH TO NEURAL NETWORK HYPER-PARAMETERS: https://arxiv.org/pdf/1803.09820.pdf
 * Delving Deep into Rectifiers:Surpassing Human-Level Performance on ImageNet Classification: https://arxiv.org/pdf/1502.01852.pdf
 
+* Spatial Pyramid Pooling (The new network structure, called SPP-net, can generate a fixed-length representation regardless of image size/scale.): https://arxiv.org/abs/1406.4729
+
+* Self-Attention Generative Adversarial Networks: https://arxiv.org/abs/1805.08318
 
 ## Reinforcement Learning
 
