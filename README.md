@@ -39,3 +39,9 @@ curated list of selected research papers for AI/ML/NLP
 
 * Double-Q Learning: https://papers.nips.cc/paper/3964-double-q-learning.pdf
 * Playing Atari with Deep Reinforcement Learning: https://arxiv.org/pdf/1312.5602.pdf
+
+## Auto ML
+
+* Auto sklearn - NIPS paper: https://ml.informatik.uni-freiburg.de/papers/15-NIPS-auto-sklearn-preprint.pdf
+* Bayesian Optimizer : https://arxiv.org/pdf/1807.02811.pdf
+* Auto-Keras : https://arxiv.org/pdf/1806.10282.pdf
