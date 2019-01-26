@@ -35,6 +35,8 @@ curated list of selected research papers for AI/ML/NLP
 
 * Self-Attention Generative Adversarial Networks: https://arxiv.org/abs/1805.08318
 
+* Face Aging with Conditional GAN's: https://arxiv.org/pdf/1702.01983.pdf
+
 ## Reinforcement Learning
 
 * Double-Q Learning: https://papers.nips.cc/paper/3964-double-q-learning.pdf
