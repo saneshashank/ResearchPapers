@@ -1,6 +1,12 @@
 # ResearchPapers
 curated list of selected research papers for AI/ML/NLP
 
+### Boosting
+
+* XGBoost: http://learningsys.org/papers/LearningSys_2015_paper_32.pdf
+* CatBoost: https://arxiv.org/abs/1706.09516
+* LightGBM: https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf
+
 # NLP:
 
 * Discriminative Vs Generative Classifiers: http://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf
