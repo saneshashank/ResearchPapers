@@ -13,6 +13,7 @@ curated list of selected research papers for AI/ML/NLP
 (practical tip: generative (like naive bayes) work better on smaller training data, while for larger training data discriminative work better.)
 * Semi CRFs: http://www.cs.cmu.edu/~wcohen/postscript/semiCRF.pdf
 
+
 ## Word Embeddings
 * Original paper of **word2vec** by Mikolov et al.: https://arxiv.org/pdf/1301.3781.pdf
 * **fastText** word2vec: https://arxiv.org/pdf/1607.01759.pdf
@@ -22,6 +23,7 @@ curated list of selected research papers for AI/ML/NLP
 * SentoVec using SIF (Smooth Inverse Frequency) and Word2Vec: https://openreview.net/pdf?id=SyK00v5xx
 
 * Universal Language Model Fine-tuning for Text Classification (ULMFiT):https://arxiv.org/pdf/1801.06146.pdf
+* * Universal Sentence Encoder: https://arxiv.org/abs/1803.11175
 
 ## Deep Learning
 
