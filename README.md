@@ -47,6 +47,9 @@ curated list of selected research papers for AI/ML/NLP
 
 * Mutual Deep Learning: https://arxiv.org/pdf/1706.00384.pdf 
 
+* Discovering Symbolic Models from Deep Learning with Inductive Biases (We develop a general approach to distill symbolic representations of a learned deep model by introducing strong inductive biases.): https://arxiv.org/pdf/2006.11287.pdf
+* Symbolic Deep Learning: https://github.com/MilesCranmer/symbolic_deep_learning
+
 ## Reinforcement Learning
 
 * Double-Q Learning: https://papers.nips.cc/paper/3964-double-q-learning.pdf
