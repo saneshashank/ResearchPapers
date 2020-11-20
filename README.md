@@ -23,7 +23,10 @@ curated list of selected research papers for AI/ML/NLP
 * SentoVec using SIF (Smooth Inverse Frequency) and Word2Vec: https://openreview.net/pdf?id=SyK00v5xx
 
 * Universal Language Model Fine-tuning for Text Classification (ULMFiT):https://arxiv.org/pdf/1801.06146.pdf
-* * Universal Sentence Encoder: https://arxiv.org/abs/1803.11175
+* Universal Sentence Encoder: https://arxiv.org/abs/1803.11175
+
+* Entity Embeddings of Categorical Variables:Entity embedding not only reduces memory usage and speeds up neural networks compared with one-hot encoding, but more importantly by mapping similar values close to each other in the embedding space it reveals the intrinsic properties of the categorical variables.
+: https://arxiv.org/abs/1604.06737
 
 ## Deep Learning
 
