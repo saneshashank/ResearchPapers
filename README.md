@@ -70,3 +70,8 @@ curated list of selected research papers for AI/ML/NLP
 * Auto sklearn - NIPS paper: https://ml.informatik.uni-freiburg.de/papers/15-NIPS-auto-sklearn-preprint.pdf
 * Bayesian Optimizer : https://arxiv.org/pdf/1807.02811.pdf
 * Auto-Keras : https://arxiv.org/pdf/1806.10282.pdf
+
+## ICLR 2022
+* Fast Model Editing at Scale: https://arxiv.org/pdf/2110.11309.pdf
+* Trends in ML @ ICLR 2022: https://relational.ai/blog/trends-in-machine-learning-iclr-2022
+* Video: https://www.youtube.com/watch?v=k_KTnJsGYS0
